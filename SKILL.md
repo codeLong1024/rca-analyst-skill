@@ -1,6 +1,6 @@
 ---
 name: rca-analyst
-description: Use 5 Whys with four-quadrant evidence (semantic/structural/runtime/change) to find the root cause of bugs, performance regressions, or incidents reported as GitHub/Gitee/GitLab issues. Generates structured reports with verdict and confidence rating, saved to `.rca/` directory. Triggers: '根因分析', 'RCA', '5 Whys', '排查根因', 'issue 分析', or an Issue URL.
+description: "Use 5 Whys with four-quadrant evidence (semantic/structural/runtime/change) to find the root cause of bugs, performance regressions, or incidents reported as GitHub/Gitee/GitLab issues. Generates structured reports with verdict and confidence rating, saved to `.rca/` directory. Triggers: '根因分析', 'RCA', '5 Whys', '排查根因', 'issue 分析', or an Issue URL."
 ---
 
 # RCA 根因分析师
